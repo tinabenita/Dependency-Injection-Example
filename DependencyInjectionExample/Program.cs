@@ -7,9 +7,7 @@
         {
             EmployeeBL employeeBL = new EmployeeBL();
 
-            employeeBL.EmployeeDataObject = new EmployeeDAL();
-
-            List<Employee> ListEmployee = employeeBL.GetAllEmployees();
+            List<Employee> ListEmployee = employeeBL.GetAllEmployees(new EmployeeDAL());
 
             foreach (Employee emp in ListEmployee)
             {

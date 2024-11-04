@@ -10,17 +10,8 @@ namespace DependencyInjectionExample
     //Client
     public class EmployeeBL
     {
-        public IEmployeeDAL employeeDAL;
 
-        public IEmployeeDAL EmployeeDataObject
-        {
-            set
-            {
-                this.employeeDAL = value;
-            }
-        }
-
-        public List<Employee> GetAllEmployees()
+        public List<Employee> GetAllEmployees(IEmployeeDAL employeeDAL)
         {
             return employeeDAL.SelectAllEmployees();
         }

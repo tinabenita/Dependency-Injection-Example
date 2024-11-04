@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1268,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +42,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Employee.cs",
-              "RelativeDocumentMoniker": "DependencyInjectionExample\\Employee.cs",
-              "ToolTip": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Employee.cs",
-              "RelativeToolTip": "DependencyInjectionExample\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T05:26:02.79Z",
+              "WhenOpened": "2024-11-04T05:25:26.089Z",
               "EditorCaption": ""
             },
             {
@@ -68,6 +68,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Employee.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Employee.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Employee.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:26:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EmployeeBL.cs",
               "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\EmployeeBL.cs",
@@ -77,19 +90,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T05:26:27.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
-              "RelativeDocumentMoniker": "DependencyInjectionExample\\Program.cs",
-              "ToolTip": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
-              "RelativeToolTip": "DependencyInjectionExample\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T05:25:26.089Z",
               "EditorCaption": ""
             }
           ]
