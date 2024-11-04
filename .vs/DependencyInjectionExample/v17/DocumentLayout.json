@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D21AC6-6A04-4890-B820-926D9B3EDBEF}|DependencyInjectionExample\\DependencyInjectionExample.csproj|c:\\users\\tiber\\source\\repos\\dependencyinjectionexample\\dependencyinjectionexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D21AC6-6A04-4890-B820-926D9B3EDBEF}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D21AC6-6A04-4890-B820-926D9B3EDBEF}|DependencyInjectionExample\\DependencyInjectionExample.csproj|c:\\users\\tiber\\source\\repos\\dependencyinjectionexample\\dependencyinjectionexample\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D21AC6-6A04-4890-B820-926D9B3EDBEF}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D21AC6-6A04-4890-B820-926D9B3EDBEF}|DependencyInjectionExample\\DependencyInjectionExample.csproj|c:\\users\\tiber\\source\\repos\\dependencyinjectionexample\\dependencyinjectionexample\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D21AC6-6A04-4890-B820-926D9B3EDBEF}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D21AC6-6A04-4890-B820-926D9B3EDBEF}|DependencyInjectionExample\\DependencyInjectionExample.csproj|c:\\users\\tiber\\source\\repos\\dependencyinjectionexample\\dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D21AC6-6A04-4890-B820-926D9B3EDBEF}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Employee.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Employee.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Employee.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:26:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\EmployeeDAL.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\EmployeeDAL.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\EmployeeDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:26:14.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\EmployeeBL.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\EmployeeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:26:27.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\tiber\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:25:26.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
