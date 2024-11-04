@@ -12,3 +12,4 @@ C:\Users\tiber\source\repos\DependencyInjectionExample\DependencyInjectionExampl
 C:\Users\tiber\source\repos\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.pdb
 C:\Users\tiber\source\repos\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.genruntimeconfig.cache
 C:\Users\tiber\source\repos\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\net8.0\ref\DependencyInjectionExample.dll
+C:\Users\tiber\source\repos\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\net8.0\DependencyInjectionExample.sourcelink.json

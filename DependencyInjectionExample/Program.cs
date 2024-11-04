@@ -5,7 +5,9 @@
     {
         static void Main(string[] args)
         {
-            EmployeeBL employeeBL = new EmployeeBL(new EmployeeDAL());
+            EmployeeBL employeeBL = new EmployeeBL();
+
+            employeeBL.EmployeeDataObject = new EmployeeDAL();
 
             List<Employee> ListEmployee = employeeBL.GetAllEmployees();
 

@@ -12,9 +12,12 @@ namespace DependencyInjectionExample
     {
         public IEmployeeDAL employeeDAL;
 
-        public EmployeeBL(IEmployeeDAL employeeDAL)
+        public IEmployeeDAL EmployeeDataObject
         {
-            this.employeeDAL = employeeDAL;
+            set
+            {
+                this.employeeDAL = value;
+            }
         }
 
         public List<Employee> GetAllEmployees()
